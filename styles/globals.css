@@ -24,3 +24,9 @@ a {
     background: black;
   }
 }
+div {
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
